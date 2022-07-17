@@ -14,3 +14,4 @@ jobs:
           pip install flake8
           pytest tests/
           flake8 .
+          
